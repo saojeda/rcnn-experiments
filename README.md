@@ -1,10 +1,10 @@
 # rcnn-experiments
 
 ## Paper
-https://www.overleaf.com/6989937774bmvncgjkysgb
+[Overleaf](https://www.overleaf.com/6989937774bmvncgjkysgb)
 
 ## Experiments (last run)
-https://colab.research.google.com/drive/1IljUzQuDRDmjE7bmlihuc6L1-tgog6WP?usp=sharing
+[Colab notebook](https://colab.research.google.com/drive/1IljUzQuDRDmjE7bmlihuc6L1-tgog6WP?usp=sharing)
 
 ## Results
 - rcnn/results.csv
