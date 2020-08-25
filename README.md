@@ -7,11 +7,12 @@
 [Colab notebook](https://colab.research.google.com/drive/1IljUzQuDRDmjE7bmlihuc6L1-tgog6WP?usp=sharing)
 
 ## Results
-- rcnn/results.csv
-- rcnn/results_agg.csv
+- rcnn/results.csv (Raw)
+- rcnn/results_agg.csv (Aggregated results)
 
-## Friedman and nemenyi tests
-- nemenyi/nemenyi.out
+## Statistical tests
+- rcnn/bdstest.out (BDS test)
+- nemenyi/nemenyi.out (Friedman & Nemenyi tests)
 
 ## Dependencies
 - numba==0.50.1
