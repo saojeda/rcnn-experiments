@@ -1,5 +1,8 @@
 # rcnn-experiments
 
+## Paper
+https://www.overleaf.com/6989937774bmvncgjkysgb
+
 ## Results
 - rcnn/results.csv
 - rcnn/results_agg.csv
