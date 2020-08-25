@@ -23,5 +23,6 @@
 - scikit-learn==0.22.1
 - pyts==0.11.0
 - statsmodels==0.11.1
+- pmdarima==1.7.0
 
 Adapted code from https://github.com/gabrieljaguiar/nemenyi and https://github.com/ChangWeiTan/TSRegression
