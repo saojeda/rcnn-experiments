@@ -7,8 +7,8 @@
 [Colab notebook](https://colab.research.google.com/drive/1IljUzQuDRDmjE7bmlihuc6L1-tgog6WP?usp=sharing)
 
 ## Results
-- rcnn/results.csv (Raw)
-- rcnn/results_agg.csv (Aggregated results)
+- rcnn/results.csv (raw)
+- rcnn/results_agg.csv (aggregated results)
 
 ## Statistical tests
 - rcnn/bdstest.out (BDS test)
