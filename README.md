@@ -1,10 +1,10 @@
 # rcnn-experiments
 
 ## Paper (Draft)
-manuscript.pdf
+See manuscript.pdf
 
 ## Experiments (last run)
-RCNN_Experiments.ipynb
+See RCNN_Experiments.ipynb
 
 ## Results
 - rcnn/results.csv (raw)
