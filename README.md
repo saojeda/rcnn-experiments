@@ -1,6 +1,6 @@
 # rcnn-experiments
 
-## Paper (Draft)
+## Paper (draft)
 See manuscript.pdf
 
 ## Experiments (last run)
