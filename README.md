@@ -3,8 +3,8 @@
 ## Abstract
 We present a framework for multivariate nonlinear time series forecasting that utilizes phase space image representations and deep learning. Recurrence plots (RP) are a phase space visualization tool used for the analysis of dynamical systems. This approach takes advantage of recurrence plots that are used as input image representations for a class of deep learning algorithms called convolutional neural networks. We show that by leveraging recurrence plots with optimal embedding parameters, appropriate representations of underlying dynamics are obtained by the proposed autoregressive deep learning model to produce forecasts.
 
-## Paper (draft)
-See manuscript.pdf
+## Paper
+To be published in Springer Nature under the provisionally-titled volume "ADVANCES IN MACHINE LEARNING/DEEP LEARNING-BASED TECHNOLOGIES - Papers in Honor of Professor Nikolaos G. Bourbakis - Vol. 2" 
 
 ## Experiments (last run)
 See RCNN_Experiments.ipynb
